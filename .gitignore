@@ -3,3 +3,5 @@ DerivedDataCache/
 Intermediate/
 Saved/
 *.tga
+
+Content/StarterContent/*
